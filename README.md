@@ -17,7 +17,7 @@ Nischal here!!
 
 - :mailbox: How to reach me:
   <div id="badges">
-  <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
+  <a href="https://www.linkedin.com/in/nischal-m-3a4423283/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nischalnm2003@gmail.com">
